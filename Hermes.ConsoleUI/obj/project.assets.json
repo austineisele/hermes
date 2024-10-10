@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aeisele\\src\\training\\Hermes\\Hermes.UI\\Hermes.UI.csproj",
-      "projectName": "Hermes.UI",
-      "projectPath": "C:\\Users\\aeisele\\src\\training\\Hermes\\Hermes.UI\\Hermes.UI.csproj",
+      "projectUniqueName": "C:\\Users\\aeisele\\src\\training\\Hermes\\Hermes.UI\\Hermes.ConsoleUI.csproj",
+      "projectName": "Hermes.ConsoleUI",
+      "projectPath": "C:\\Users\\aeisele\\src\\training\\Hermes\\Hermes.UI\\Hermes.ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\aeisele\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aeisele\\src\\training\\Hermes\\Hermes.UI\\obj\\",
       "projectStyle": "PackageReference",

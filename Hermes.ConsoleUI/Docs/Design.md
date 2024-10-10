@@ -5,6 +5,6 @@ This is primarily a messaging application, that can use multiple user-interfaces
 ## Basic Components of a Messaging App
 There are three maajor parts of messaging app:
 ### 1. Client:
-The client is the one
+The client
 ### 2. Stream
 ### 3. Server
