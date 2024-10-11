@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35323.107
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.UI", "Hermes.UI\Hermes.UI.csproj", "{FE0BC732-8A74-4639-86A5-1F01B50C1145}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.ConsoleUI", "Hermes.UI\Hermes.ConsoleUI.csproj", "{FE0BC732-8A74-4639-86A5-1F01B50C1145}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.Domain", "Hermes.Domain\Hermes.Domain.csproj", "{4BD118D2-0B15-4052-AFAF-372B7C13CBAA}"
 EndProject
