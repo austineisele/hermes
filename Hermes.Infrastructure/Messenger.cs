@@ -40,8 +40,8 @@ namespace Hermes.Infrastructure
         /// <returns>Tuple</returns>
         public (int opCode, string payload) ParseMessagePacket(byte[] data)
         {
-            using MemoryStream ms = new MemoryStream();
-            using BinaryReader reader = new BinaryReader(ms);
+            using MemoryStream ms = new MemoryStream(data);
+            using BinaryReader reader = new BinaryReader(ms, Encoding.ASCII);
 
             int opCode = reader.ReadInt32();
             string payload = reader.ReadString();
